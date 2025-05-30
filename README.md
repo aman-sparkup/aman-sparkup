@@ -34,15 +34,15 @@ I'm a passionate **Frontend Developer** with strong Full Stack capabilities. I s
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aman-sparkup&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aman-sparkup&layout=compact&theme=tokyonight)
 
 ---
 
 ## 📫 Let's Connect
-- 📧 Email: your.email@example.com
-- 💼 LinkedIn: [your-linkedin](https://linkedin.com/in/your-linkedin)
-- 🌐 Portfolio: [yourwebsite.com](https://yourwebsite.com)
+- 📧 Email: aman@sparkuptech.in
+- 💼 LinkedIn: https://www.linkedin.com/in/aman-kumawat-238074202/
+- 🌐 Portfolio:  https://amankmwt-portfolio.netlify.app/
 
 ---
 
