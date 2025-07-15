@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Neo
 
-I'm a passionate **Software Developer** with strong Full Stack capabilities. I specialize in building elegant, scalable, and high-performance web applications using modern JavaScript frameworks and backend technologies.
+I'm a passionate **Software Developer** with strong Frontend capabilities. I specialize in building elegant, scalable, and high-performance web applications using modern JavaScript frameworks and backend technologies.
 
 ---
 
